@@ -28,7 +28,7 @@ The prototype was built using [Mockitt](https://www.mockitt.com/) to simulate re
 ## 🔗 Preview
 
 You can access the interactive prototype at the following link:  
-👉 <a href="https://mockitt.com/proto/opBd8feWsywj847yLXn3is/sharing?view_mode=read_only" target="_blank">View prototype on Mockitt</a>
+👉 [View prototype on Mockitt](https://mockitt.com/proto/opBd8feWsywj847yLXn3is/sharing?view_mode=read_only)
 
 ---
 
